@@ -1,0 +1,24 @@
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	opacity:0.5;
+}
+
+button {
+	border: none;
+	border-radius: 15%;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.green {
+	background-color: green;
+}
+
+.gray {
+	background-color: gray;
+}
